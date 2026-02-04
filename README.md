@@ -22,7 +22,7 @@
   <table>
     <tr style="border: none;">
       <td width="60%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=RendezvousP&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=RendezvousP&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" width="100%" />
       </td>
       <td width="40%" align="center" style="border: none;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendezvousP&layout=donut&theme=dracula&hide_border=true&bg_color=0d1117&hide=html,css" width="100%" />
@@ -36,13 +36,20 @@
 <div align="center">
   <h3>⚡ THE ARSENAL ⚡</h3>
   <br />
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,python,nodejs,rust,go,docker,kubernetes,aws,gcp,vercel,git,linux,vim&theme=dark&perline=15" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </div>
 
 <br /><br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RendezvousP&theme=dracula&no-frame=true&no-bg=true&margin-w=10&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RendezvousP&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 <div align="center">
