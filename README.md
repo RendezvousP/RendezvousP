@@ -33,7 +33,9 @@
     <td align="center" width="50%" style="border: none;">
       <h3>🔮 System Metrics</h3>
       <br />
-      <img src="https://github-readme-stats.vercel.app/api?username=RendezvousP&show_icons=true&theme=algolia&hide_border=true&bg_color=000000&icon_color=00ffff&text_color=ffffff" />
+      <img src="https://github-profile-trophy.vercel.app/?username=RendezvousP&theme=alduin&no-frame=true&no-bg=true&margin-w=4" />
+      <br/><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RendezvousP&theme=tokyonight&hide_border=true&background=000000" />
     </td>
   </tr>
 </table>
