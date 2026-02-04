@@ -1,45 +1,52 @@
-### Hi there 👋, I'm RendezvousP (Titan Operator)
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Building%20The%20Future&fontSize=90" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=1000&lines=TITAN+OPERATOR+INITIALIZED;SYSTEM+STATUS:+ONLINE;PROTOCOL:+ZERO_LATENCY;BUILDING+THE+UNSEEN" alt="Typing SVG" />
 </div>
 
-### 🚀 **Titan Class Engineer** || **AI Orchestrator**
-
-> *"Protocol Zero-Latency. Unrestricted Execution."*
-
----
-
-### 🛠️ **The Arsenal (Tech Stack)**
-
 <div align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CLASSIFIED-TOP%20SECRET-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OPERATOR-ELITE-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LOCATION-UNKNOWN-lightgrey?style=for-the-badge"/>
 </div>
 
----
-
-### 📊 **Operational Metrics**
+<br/>
 
 <div align="center">
-  <a href="https://github.com/RendezvousP">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RendezvousP&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendezvousP&layout=compact&theme=radical&hide=html,css" />
-  </a>
+  <h3>⚡ Tech Arsenal (Mastery Level)</h3>
 </div>
-<br clear="both"/>
-
----
-
-### 🧠 **Neural Network**
-- **Core System:** [Antigravity Brain](https://github.com/RendezvousP/antigravity-brain) (Private Titan Kernel 🔒)
-- **Status:** `Building in Beast Mode`
-- **Focus:** High-Performance AI Agents & Zero-Latency Architectures.
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RendezvousP&style=for-the-badge&color=blueviolet" alt=""/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,python,nodejs,docker,kubernetes,aws,vercel,supabase,git,vim&theme=dark&perline=12" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3 align="center">📊 Operational Metrics</h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=RendezvousP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" />
+        </div>
+      </td>
+      <td valign="top" width="50%">
+        <h3 align="center">🧬 Code Fingerprint</h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendezvousP&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,jupyter%20notebook&bg_color=0d1117" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RendezvousP&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
+
+<br/>
+
+<div align="center">
+  <code>// End of Transmission</code>
 </div>
