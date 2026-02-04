@@ -33,7 +33,7 @@
     <td align="center" width="50%" style="border: none;">
       <h3>🔮 System Metrics</h3>
       <br />
-      <img src="https://github-readme-stats.vercel.app/api?username=RendezvousP&show_icons=true&theme=dark&bg_color=000000&hide_border=true&count_private=true&include_all_commits=true&text_color=ffffff&icon_color=00ffff" />
+      <img src="https://github-readme-stats.vercel.app/api?username=RendezvousP&show_icons=true&theme=algolia&hide_border=true&bg_color=000000&icon_color=00ffff&text_color=ffffff" />
     </td>
   </tr>
 </table>
