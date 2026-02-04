@@ -1,29 +1,31 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=00F260,0575E6&height=120&section=header&text=RENDEZVOUS_P&fontSize=70&fontAlign=50&fontAlignY=50&desc=NEURAL%20ARCHITECT%20//%20V.2077&descAlign=50&descAlignY=80&animation=fadeIn" width="100%" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=00F260&center=true&vCenter=true&width=800&lines=INITIALIZING_RETRO_PROTOCOL...;LOADING_AI_CORE_MODULES...;SYSTEM_READY.;WAKE_UP_OPERATOR." alt="Retro Typing" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/CYBERNETICS-MAXIMIZED-0575E6?style=for-the-badge&logo=atom&logoColor=white" />
-  <img src="https://img.shields.io/badge/LINK-SECURE-00F260?style=for-the-badge&logo=tor-browser&logoColor=black" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=da22ff,9733ee,00c6ff&height=250&section=header&text=RENDEZVOUS_P&fontSize=80&fontAlign=50&fontAlignY=35&desc=A%20R%20C%20H%20I%20T%20E%20C%20T%20I%20N%20G%20%20%20%20T%20H%20E%20%20%20%20U%20N%20S%20E%20E%20N&descAlign=50&descAlignY=65&descSize=20&animation=fadeIn" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9733EE&center=true&vCenter=true&width=1000&lines=PROTOCOL:+TITAN_CLASS;STATUS:+OPERATIONAL;MISSION:+BUILDING_DIGITAL_GODS" alt="Typing SVG" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/CORE-ANTIGRAVITY-000000?style=for-the-badge&logo=atom&logoColor=magenta" />
+  <img src="https://img.shields.io/badge/RANK-GRANDMASTER-000000?style=for-the-badge&logo=codewars&logoColor=cyan" />
+  <img src="https://img.shields.io/badge/ZONE-THE_VOID-000000?style=for-the-badge&logo=tor-browser&logoColor=white" />
+</div>
+
+<br /><br />
+
+<div align="center">
   <table>
-    <tr>
-      <td valign="top" width="50%" style="border:none;">
-        <h3 align="center">COMPUTE_STATS</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=RendezvousP&show_icons=true&theme=syntax-in-dark&hide_border=true&bg_color=0D1117&title_color=00F260&icon_color=0575E6&rank_icon=github&count_private=true&include_all_commits=true" />
+    <tr style="border: none;">
+      <td width="60%" align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=RendezvousP&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" width="100%" />
       </td>
-      <td valign="top" width="50%" style="border:none;">
-        <h3 align="center">LANGUAGE_MATRIX</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendezvousP&layout=compact&theme=syntax-in-dark&hide_border=true&bg_color=0D1117&title_color=0575E6&hide=html,css" />
+      <td width="40%" align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendezvousP&layout=donut&theme=dracula&hide_border=true&bg_color=0d1117&hide=html,css" width="100%" />
       </td>
     </tr>
   </table>
@@ -32,12 +34,17 @@
 <br />
 
 <div align="center">
-  <h3>// ARSENAL</h3>
-  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,python,nodejs,linux,git,docker,vscode,idea&theme=dark" />
+  <h3>⚡ THE ARSENAL ⚡</h3>
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,python,nodejs,rust,go,docker,kubernetes,aws,gcp,vercel,git,linux,vim&theme=dark&perline=15" />
 </div>
 
-<br />
+<br /><br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0575E6,00F260&height=50&section=footer" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RendezvousP&theme=dracula&no-frame=true&no-bg=true&margin-w=10&column=7" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,9733ee,da22ff&height=100&section=footer" width="100%" />
 </div>
