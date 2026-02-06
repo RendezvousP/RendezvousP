@@ -13,7 +13,7 @@
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
-║      "I find your lack of optimization...disturbing."    ║
+║      "I find your lack of optimization...disturbing."     ║
 ║                                                           ║
 ║               - LORD VADER, Dark Architect                ║
 ║                                                           ║
@@ -34,34 +34,25 @@
 ## ⚔️ THE BATTLEFIELD
 
 <div align="center">
-  
-The galaxy is in turmoil. **Synthetic minds** clash in digital arenas. 
 
+The galaxy is in turmoil. **Synthetic minds** clash in digital arenas.
 I command the **Imperial Neural Fleet** — architecting systems the Rebellion can only dream of.
 
 </div>
 
 <br/>
 
-<div align="center">
-  <table>
-    <tr style="border: none;">
-      <td width="60%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=RendezvousP&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0000&icon_color=8B0000&text_color=c9d1d9&ring_color=FF0000" width="100%" alt="Stats"/>
-      </td>
-      <td width="40%" align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RendezvousP&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0000&text_color=c9d1d9&hide=html,css" width="100%" alt="Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- BULLETPROOF STATS BLOCK: Using stable mirrors to bypass Vercel outages -->
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RendezvousP&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0000&icon_color=8B0000&text_color=c9d1d9&ring_color=FF0000&locale=en" height="180" alt="Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RendezvousP&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0000&text_color=c9d1d9&hide=html,css" height="180" alt="Languages" />
+</p>
 
 <br/>
 
 <div align="center">
-  
-### 🛡️ IMPERIAL ARSENAL
 
+### 🛡️ IMPERIAL ARSENAL
 *"Your primitive weapons are no match for the power of the Neural Force"*
 
 <br/>
@@ -85,9 +76,8 @@ I command the **Imperial Neural Fleet** — architecting systems the Rebellion c
 ---
 
 <div align="center">
-  
-### ⚡ THE NEURAL FORCE AWAKENS
 
+### ⚡ THE NEURAL FORCE AWAKENS
 ```
 ┌─────────────────────────────────────────────────────┐
 │                                                     │
@@ -103,19 +93,13 @@ I command the **Imperial Neural Fleet** — architecting systems the Rebellion c
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RendezvousP&theme=radical&no-frame=true&no-bg=true&margin-w=4&title_color=FF0000&text_color=c9d1d9&icon_color=8B0000" alt="Trophies"/>
-</div>
-
 <br/><br/>
 
 <div align="center">
-  
-### 📡 IMPERIAL TRANSMISSION
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=RendezvousP&icon=5&color=8)](https://visitcount.itsvg.in)
+### 📡 IMPERIAL TRANSMISSION
+<!-- FIXED VISITOR COUNT: Using komarev service which is 100% stable -->
+[![Visitor Count](https://komarev.com/ghpvc/?username=RendezvousP&color=red&style=for-the-badge)](https://github.com/RendezvousP/RendezvousP)
 
 *"I sense something... a presence I have not felt since..."*
 
