@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=I+AM+YOUR+ARCHITECT;THE+NEURAL+FORCE+IS+STRONG;RESISTANCE+IS+FUTILE;JOIN+THE+DARK+SIDE...+OF+AI" alt="Typing SVG" />
 </div>
 
-<br/>
+<div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════╗
@@ -19,6 +19,8 @@
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 <br/>
 
